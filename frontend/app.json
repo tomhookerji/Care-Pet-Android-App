@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "Vaniya Pet",
+    "slug": "vaniya-pet-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#8B5CF6"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.vaniyapet.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#8B5CF6"
+      },
+      "package": "com.vaniyapet.app",
+      "permissions": [
+        "NOTIFICATIONS"
+      ]
+    },
+    "web": {
+    }
+  }
+}
