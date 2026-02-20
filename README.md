@@ -27,7 +27,7 @@ A comprehensive mobile application built with React Native and PHP backend for p
 - View ratings, reviews, and pricing
 - See available services (feeding, walking, grooming, training)
 - Book boarding directly through the app
-- Contact caretakers via phone or email
+- Contact caretakers via phone or email.
 
 ### Profile Management
 - Manage multiple pets
