@@ -134,4 +134,4 @@ If you encounter issues:
 
 ---
 
-**Happy Building! 🚀🐾**
+**Happy Building 🚀🐾**
