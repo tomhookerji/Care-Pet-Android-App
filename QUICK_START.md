@@ -171,7 +171,7 @@ For more detailed information, check these files:
 2. Create database and import data (5 minutes)
 3. Copy backend files (1 minute)
 4. Test backend connection (1 minute)
-5. **Total: ~12 minutes to complete backend setup!**
+5. **Total: ~15 minutes to complete backend setup!**
 
 ---
 
